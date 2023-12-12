@@ -1,8 +1,10 @@
-This project is Created using API
+This project is Created using API  https://newsapi.in/
 <br>
 https://raushan-thakur.github.io/NewsApp/
 <br>
-Actually the API called is paid so it is not working on live link and works properly on local computer. Here are some images of the local computer api calls
+P.S. Actually the API called is paid so it is not working on live link and works properly on local computer.
+<br>
+Here are some images of the local computer api calls
 <img width="1280" alt="Screenshot 2023-12-12 at 11 47 37 PM" src="https://github.com/raushan-thakur/NewsApp/assets/126002112/514bf55c-346a-4dbb-a6b3-2df54d992390">
 <br>
 <br>
